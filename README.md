@@ -7,4 +7,4 @@ This is the repository of Digital Circuit Lab final project. We use DE2-115 FPGA
 * src : source code directory  
 
 ## Demo
-[Here](https://drive.google.com/open?id=18we2pKe-_D_lew9fPMkrn_wz1ezm3vpd)
+[Project Demo](https://drive.google.com/open?id=18we2pKe-_D_lew9fPMkrn_wz1ezm3vpd)
